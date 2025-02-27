@@ -3,3 +3,5 @@ python-dotenv
 #chromadb
 langchain_community
 streamlit
+crewai
+crewai[tools]
